@@ -1,6 +1,6 @@
 # BootCamp
 
-This repository hosts content and materials from different boot camps for enhancing programming, problem-solving, and data science skills.
+This repository hosts content and materials from different boot camps for enhancing programming, problem-solving, data science, and web development skills.
 
 ---
 
@@ -17,20 +17,31 @@ This repository hosts content and materials from different boot camps for enhanc
      - Machine Learning Fundamentals
    - **Key Features**:
      - Weekly assignments and take-home exercises
-     - Hands-on projects such as data visualization, sentiment analysis, and recommendation systems
+     - Hands-on projects such as:
+       - Data visualization and analysis of air quality data
+       - Sentiment analysis of social media content
+       - Development of a music recommendation system
 
 ### 2. **NYU_LeetCode_Bootcamp**
-   This directory contains coding problems, solutions, and notes from the NYU LeetCode Boot Camp, focused on improving algorithmic thinking and problem-solving skills.
+   This directory contains coding problems, solutions, and a full-stack web development project completed during the NYU LeetCode Boot Camp.
 
    - **Topics Covered**:
      - Arrays and Strings
      - Recursion and Backtracking
      - Dynamic Programming
      - Graph Algorithms
-     - System Design Basics
-   - **Key Features**:
-     - Optimized solutions for LeetCode problems
-     - Guidance for tackling coding interviews
+     - Full-Stack Web Development (Project)
+   - **Full-Stack Web Development Project**:
+     - A complete web application developed using Flask (backend) and HTML/CSS (frontend).
+     - **Features**:
+       - Integration with external APIs (e.g., CoinGecko)
+       - User-friendly interface for displaying real-time data
+       - Deployment using AWS or similar cloud platforms
+     - **Technologies Used**:
+       - **Backend**: Python (Flask)
+       - **Frontend**: HTML, CSS, JavaScript
+       - **Database**: SQLite
+       - **Deployment**: AWS
 
 ---
 
@@ -38,23 +49,28 @@ This repository hosts content and materials from different boot camps for enhanc
 
 - Comprehensive solutions for weekly assignments
 - Real-world projects to apply learned concepts
+- Full-stack development project to build deployment-ready applications
 - Interview preparation with algorithmic and coding challenges
 
 ---
 
 ## 🛠️ Tools and Technologies
 
-- **Programming Languages**: Python, SQL
-- **Libraries**: Numpy, Pandas, Matplotlib, Seaborn
-- **Algorithms**: Sorting, Graphs, Dynamic Programming
-- **Machine Learning Frameworks**: scikit-learn, TensorFlow
+- **Programming Languages**: Python, SQL, JavaScript
+- **Libraries and Frameworks**:
+  - Numpy, Pandas, Matplotlib, Seaborn
+  - scikit-learn, TensorFlow
+  - Flask (for backend development)
+- **Databases**: SQLite
+- **APIs**: CoinGecko and others
 - **Version Control**: Git, GitHub
+- **Cloud Platforms**: AWS (for deployment)
 
 ---
 
 ## 🤝 Contribution
 
-If you'd like to contribute to this repository, feel free to fork it and submit a pull request. Contributions to improve solutions or add additional materials are always welcome!
+If you'd like to contribute to this repository, feel free to fork it and submit a pull request. Contributions to improve solutions, enhance the web development project, or add additional materials are always welcome!
 
 ---
 
