@@ -21,7 +21,7 @@ Welcome to my repository! This repository contains my solutions to the weekly as
 
 During the boot camp, the following skills and tools were utilized:
 
-- **Programming**: Python, R
+- **Programming**: Python
 - **Data Analysis**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn, Tableau
 - **Machine Learning**: scikit-learn, TensorFlow, Keras
@@ -40,16 +40,42 @@ During the boot camp, the following skills and tools were utilized:
 
 ---
 
+## 💼 Projects
+
+### Project Options:
+1. **Air Quality Data Visualization**:
+   - Analyze air pollution trends in India using temporal, regional, and feature-based insights.
+   - Tasks include data cleaning, exploratory data analysis, visualization, and predictive modeling.
+
+2. **Sentiment Analysis of Social Media Content**:
+   - Perform sentiment analysis on user-generated content from social platforms.
+   - Tasks include temporal, geographical, and platform-specific sentiment trend analysis.
+
+3. **Music Recommendation System**:
+   - Develop a recommendation system using Spotify data to suggest songs based on user preferences.
+   - Tasks include feature exploration, collaborative filtering, and UI integration.
+
+## 📝 Assignments
+
+- Weekly take-home assignments reinforce key concepts and techniques.
+- Solutions must be submitted via the designated submission form by Tuesday at 11:59 PM.
+
+---
+
+---
+
 ## 📜 About NYU Tandon Data Science Boot Camp
 
 The NYU Data Science Boot Camp is an immersive program provided by the NYU Tandon School of Engineering. It aims to transform learners into data professionals ready to tackle modern challenges in industries like finance, healthcare, and technology.
 
 ---
 
+
+
 ## 📬 Contact
 
 Feel free to reach out if you have any questions or want to discuss data science projects:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile URL]
+- **Name**: Brian J. Lee
+- **Email**: brian.lee.great@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/brian-jonghoon-lee-frm-caia-a96438199/
