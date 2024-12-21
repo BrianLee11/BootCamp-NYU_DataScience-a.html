@@ -74,7 +74,9 @@ This repository hosts content and materials from different boot camps for enhanc
 For any questions or discussions, feel free to reach out.
 
 - **GitHub User**: [BrianLee11](https://github.com/BrianLee11)
-
+- **Name**: Brian J. Lee
+- **Email**: brian.lee.great@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/brian-jonghoon-lee-frm-caia-a96438199/
 ---
 
 **Happy Learning! 🚀**
