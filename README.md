@@ -62,8 +62,6 @@ During the boot camp, the following skills and tools were utilized:
 
 ---
 
----
-
 ## 📜 About NYU Tandon Data Science Boot Camp
 
 The NYU Data Science Boot Camp is an immersive program provided by the NYU Tandon School of Engineering. It aims to transform learners into data professionals ready to tackle modern challenges in industries like finance, healthcare, and technology.
