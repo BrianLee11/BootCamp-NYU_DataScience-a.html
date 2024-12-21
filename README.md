@@ -1,2 +1,2 @@
-# BootCamp-NYU_DataScience
-NYU Data Science - assignments and projects
+# Boot Camp: New York Unversity Tandon Engineering School - Data Science Boot Camp
+Assignments and projects
