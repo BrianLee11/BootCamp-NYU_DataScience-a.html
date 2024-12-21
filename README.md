@@ -1,3 +1,6 @@
-# Boot Camp: New York Unversity Tandon Engineering School 
-Data Science Boot Camp
-Assignments and projects
+# Boot Camp: New York Unversity (NYU) Data Science Boot Camp
+
+Provided by: NYU Tandon Engineering School
+
+Contents: Weekly assignment and group-project
+
