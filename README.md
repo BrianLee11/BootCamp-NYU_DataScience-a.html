@@ -66,11 +66,6 @@ This repository hosts content and materials from different boot camps for enhanc
 - **Version Control**: Git, GitHub
 - **Cloud Platforms**: AWS (for deployment)
 
----
-
-## 🤝 Contribution
-
-If you'd like to contribute to this repository, feel free to fork it and submit a pull request. Contributions to improve solutions, enhance the web development project, or add additional materials are always welcome!
 
 ---
 
