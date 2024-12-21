@@ -1,7 +1,7 @@
 # New York University (NYU) Data Science Boot Camp
 
 **Provided by:** [NYU Tandon School of Engineering Career Hub Data Science Bootcamp](https://engineering.nyu.edu/life-tandon/tandon-career-hub/resources-students/data-science-bootcamp)
-
+![Project Overview](images/DataScienceBootcamp.png)
 ---
 
 ## 📚 Overview
