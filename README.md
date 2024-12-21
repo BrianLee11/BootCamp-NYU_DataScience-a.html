@@ -1,4 +1,4 @@
-New York Unversity (NYU) Data Science Boot Camp
+
 
 **Boot camp provided by**: NYU Tandon Engineering School
 
