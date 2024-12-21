@@ -66,6 +66,15 @@ During the boot camp, the following skills and tools were utilized:
 
 The NYU Data Science Boot Camp is an immersive program provided by the NYU Tandon School of Engineering. It aims to transform learners into data professionals ready to tackle modern challenges in industries like finance, healthcare, and technology.
 
+## 🗓️ Weekly Topics
+
+1. **Week 1**: Python Fundamentals
+2. **Week 2**: Numpy and Pandas
+3. **Week 3**: Exploratory Data Analysis and Data Visualization
+4. **Week 4**: SQL Basics
+5. **Week 5**: Mid-program Project Presentations
+6. **Week 6-8**: Machine Learning Basics and Applications
+7. **Week 9**: Final Project Presentations
 ---
 
 
