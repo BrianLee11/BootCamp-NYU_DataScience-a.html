@@ -2,7 +2,7 @@
 
 **Provided by:** [NYU Tandon School of Engineering Career Hub Data Science Bootcamp](https://engineering.nyu.edu/life-tandon/tandon-career-hub/resources-students/data-science-bootcamp)
 
-<img src="images/DataScienceBootcamp.jpg" alt="Project Overview" width="300">
+<img src="images/DataScienceBootcamp.jpg" alt="Project Overview" width="500">
 
 ## 📚 Overview
 

@@ -2,7 +2,7 @@
 
 **Provided by:** [NYU Tandon School of Engineering Career Hub Leetcode Bootcamp](https://engineering.nyu.edu/life-tandon/tandon-career-hub/resources-students/leetcode-bootcamp)
 
-<img src="images/Leetcode_Bootcamp.jpg" alt="Project Overview" width="300">
+<img src="images/Leetcode_Bootcamp.jpg" alt="Project Overview" width="500">
 
 Welcome to my repository! This repository contains my solutions to the weekly assignments and group projects completed as part of the NYU LeetCode Boot Camp. The boot camp focuses on preparing students for technical interviews by solving LeetCode problems and working on real-world projects.
 
