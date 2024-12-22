@@ -7,7 +7,8 @@ This repository hosts content and materials from different boot camps for enhanc
 ## 📂 Directory Structure
 
 ### 1. **NYU_Data_Science_BootCamp**
-  <img src="images/Leetcode_Bootcamp.jpg" alt="Project Overview" width="500">
+<img src="images/DataScienceBootcamp.jpg" alt="Project Overview" width="500">
+  
 
    This directory contains all materials, assignments, and projects completed during the NYU Data Science Boot Camp.
 
@@ -24,8 +25,9 @@ This repository hosts content and materials from different boot camps for enhanc
        - Sentiment analysis of social media content
        - Development of a music recommendation system
 
+--- 
 ### 2. **NYU_LeetCode_Bootcamp**
-<img src="images/DataScienceBootcamp.jpg" alt="Project Overview" width="500">
+<img src="images/Leetcode_Bootcamp.jpg" alt="Project Overview" width="500">
 
    This directory contains coding problems, solutions, and a full-stack web development project completed during the NYU LeetCode Boot Camp.
 
