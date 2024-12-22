@@ -4,20 +4,9 @@
 
 <img src="images/DataScienceBootcamp.jpg" alt="Project Overview" width="300">
 
----
-
 ## 📚 Overview
 
 Welcome to my repository! This repository contains my solutions to the weekly assignments and group projects completed as part of the NYU Data Science Boot Camp. The boot camp focuses on equipping participants with hands-on experience in data science tools, techniques, and frameworks.
-
----
-
-## 📂 Repository Structure
-
-- **Assignments**: Weekly assignments designed to reinforce concepts learned during the boot camp.
-- **Group Projects**: Collaborative projects that showcase teamwork and problem-solving skills in data science.
-
----
 
 ## 🔧 Skills and Tools Covered
 
@@ -31,7 +20,12 @@ During the boot camp, the following skills and tools were utilized:
 - **Databases**: SQL, MongoDB
 - **Version Control**: Git, GitHub
 - **Deployment**: Flask, Streamlit
+---
 
+## 📂 Repository Structure
+
+- **Assignments**: Weekly assignments designed to reinforce concepts learned during the boot camp.
+- **Group Projects**: Collaborative projects that showcase teamwork and problem-solving skills in data science.
 ---
 
 ## 🌟 Highlights

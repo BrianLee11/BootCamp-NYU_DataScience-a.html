@@ -6,34 +6,9 @@
 
 Welcome to my repository! This repository contains my solutions to the weekly assignments and group projects completed as part of the NYU LeetCode Boot Camp. The boot camp focuses on preparing students for technical interviews by solving LeetCode problems and working on real-world projects.
 
----
-
-## 📂 Repository Structure
-
-- **Assignments**: Weekly take-home problems for LeetCode practice.
-- **Projects**: Source code, documentation, and presentation files for group projects.
-
----
-
 ## 📚 Overview
 
 This bootcamp provided nine weeks of hands-on experience solving LeetCode problems and working collaboratively in a supportive environment. The focus was on mastering fundamental data structures, algorithms, and problem-solving techniques necessary for technical interviews.
-
----
-
-## 🗓️ Weekly Topics
-
-| Week  | Topics                                |
-|-------|---------------------------------------|
-| 1     | Lists, Arrays, Sorting               |
-| 2     | Strings, Hash Maps                   |
-| 3     | Matrix, Linked Lists                 |
-| 4     | Graphs, Stacks, Queues               |
-| 5     | Mid-Program Project Presentations    |
-| 6     | Tree, Trie, Heap                     |
-| 7     | Search Algorithms (DFS, BFS, BST)    |
-| 8     | Greedy Algorithms, Dynamic Programming |
-| 9     | Final Project Presentations          |
 
 ---
 
@@ -51,7 +26,27 @@ This bootcamp provided nine weeks of hands-on experience solving LeetCode proble
 - **Deployment**: Netlify, Vercel
 
 ---
+## 📂 Repository Structure
 
+- **Assignments**: Weekly take-home problems for LeetCode practice.
+- **Projects**: Source code, documentation, and presentation files for group projects.
+
+---
+## 🗓️ Weekly Topics
+
+| Week  | Topics                                |
+|-------|---------------------------------------|
+| 1     | Lists, Arrays, Sorting               |
+| 2     | Strings, Hash Maps                   |
+| 3     | Matrix, Linked Lists                 |
+| 4     | Graphs, Stacks, Queues               |
+| 5     | Mid-Program Project Presentations    |
+| 6     | Tree, Trie, Heap                     |
+| 7     | Search Algorithms (DFS, BFS, BST)    |
+| 8     | Greedy Algorithms, Dynamic Programming |
+| 9     | Final Project Presentations          |
+
+---
 ## 🛠️ Projects
 
 Students collaborated in groups of 4-5 to work on real-world projects. Project examples include:
